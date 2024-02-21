@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile!
 
-Associate Data Scientist with acknowledgement of hard work and dedication in completing the 3 months intensive Data Science training program provided by Digital Skola with [Excellent Grade](https://drive.google.com/file/d/1bPF2mVBBGIppj5zuRZShpxgyK-MFwlWF/view?usp=sharing). Explore my repositories to witness my coding journey and discover a range of projects showcasing my skills and interests.
+[Associate Data Scientist](https://drive.google.com/file/d/1qoxPtsfoulZyPljDnrTQ4IjqOnlGmlUs/view?usp=sharing) with acknowledgement of hard work and dedication in completing the 3 months intensive Data Science training program provided by Digital Skola with [Excellent Grade](https://drive.google.com/file/d/1bPF2mVBBGIppj5zuRZShpxgyK-MFwlWF/view?usp=sharing). Explore my repositories to witness my coding journey and discover a range of projects showcasing my skills and interests.
 
 ## Notable Projects
 
