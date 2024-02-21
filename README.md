@@ -15,13 +15,6 @@ An Associate Data Scientist with a dedication to exploring cutting-edge technolo
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nuraulaola)](https://github.com/nuraulaola/github-readme-stats)
 
-## Key Skills
-
-- Python 🐍
-- Jupyter Notebook 📓
-- PostgreSQL 🐘
-- Machine Learning 🤖
-
 ## Collaborate on My Learning Journey
 
 Join me on [LeetCode Discussions](https://github.com/nuraulaola/LeetCode-Solutions/discussions) and [DataLemur Discussions](https://github.com/nuraulaola/DataLemur-Solutions/discussions) to be a part of this learning journey together. Let's collaborate and learn from each other! 🤝 
