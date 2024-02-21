@@ -1,16 +1,21 @@
-### Hi there 👋
+# Welcome to My GitHub Profile 👋
 
-<!--
-**nuraulaola/nuraulaola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a certified competent Associate Data Scientist with a dedication to exploring cutting-edge technologies and developing impactful projects. Explore my repositories to witness my coding journey and discover a range of projects showcasing my skills and interests.
 
-Here are some ideas to get you started:
+## Notable Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+1. [Laptop Price Analysis with Python](https://github.com/nuraulaola/Laptop-Price-Analysis-with-Python.git)
+2. [Netflix Data Analysis with Python](https://github.com/nuraulaola/Netflix-Data-Analysis-with-Python.git)
+3. [Netflix Data Analysis Dashboard](https://lookerstudio.google.com/reporting/0ebefa39-3d10-4346-b8ac-a936a3b0a844?s=sPQhrYx7xGg)
+4. [House Price Prediction](https://github.com/nuraulaola/House-Price-Prediction.git)
+5. [Bank Customer Churn Prediction](https://github.com/nuraulaola/Bank-Customer-Churn-Prediction.git)
+6. [Online Retail Customer Segmentation](https://github.com/nuraulaola/Online-Retail-Customer-Segmentation.git)
+
+## Key Technologies
+
+- Python 🐍
+- Jupyter Notebook 📓
+- PostgreSQL 🐘
+- Machine Learning 🤖
+
+Let's collaborate and build something remarkable! 🚀
