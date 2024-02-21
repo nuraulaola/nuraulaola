@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile!
 
-I'm a competent Associate Data Scientist with a dedication to exploring cutting-edge technologies and developing impactful projects. Explore my repositories to witness my coding journey and discover a range of projects showcasing my skills and interests.
+An Associate Data Scientist with a dedication to exploring cutting-edge technologies and developing impactful projects. Explore my repositories to witness my coding journey and discover a range of projects showcasing my skills and interests.
 
 ## Notable Projects
 
