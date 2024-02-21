@@ -11,6 +11,9 @@ An Associate Data Scientist with a dedication to exploring cutting-edge technolo
 5. [Online Retail Customer Segmentation](https://github.com/nuraulaola/Online-Retail-Customer-Segmentation.git)
 6. [Loan Approval Prediction](https://github.com/nuraulaola/Loan-Approval-Prediction.git) & [Loan Eligibility Prediction Assistant App](https://loan-approval-preds.streamlit.app/)
 
+## Key Skills
+[![My Skills](https://skillicons.dev/icons?i=vscode,postgres,py,flask&theme=light)](https://skillicons.dev)
+
 ## Collaborate on My Learning Journey
 
 Join me on [LeetCode Discussions](https://github.com/nuraulaola/LeetCode-Solutions/discussions) and [DataLemur Discussions](https://github.com/nuraulaola/DataLemur-Solutions/discussions) to be a part of this learning journey together. Let's collaborate and learn from each other! 🤝 
@@ -19,5 +22,3 @@ Join me on [LeetCode Discussions](https://github.com/nuraulaola/LeetCode-Solutio
 
 - **Email:** nuraulaola@gmail.com
 - **LinkedIn:** [Nur Aula](https://www.linkedin.com/in/nur-aula/)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nuraulaola&layout=donut-vertical)](https://github.com/nuraulaola/github-readme-stats)
