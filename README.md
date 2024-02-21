@@ -11,6 +11,10 @@ An Associate Data Scientist with a dedication to exploring cutting-edge technolo
 5. [Online Retail Customer Segmentation](https://github.com/nuraulaola/Online-Retail-Customer-Segmentation.git)
 6. [Loan Approval Prediction](https://github.com/nuraulaola/Loan-Approval-Prediction.git) & [Loan Eligibility Prediction Assistant App](https://loan-approval-preds.streamlit.app/)
 
+## GitHub Stats
+
+[![Nur Aula's GitHub stats](https://github-readme-stats.vercel.app/api?username=nuraulaola)](https://github.com/nuraulaola/github-readme-stats)
+
 ## Key Skills
 
 - Python 🐍
