@@ -12,7 +12,7 @@ An Associate Data Scientist with a dedication to exploring cutting-edge technolo
 6. [Loan Approval Prediction](https://github.com/nuraulaola/Loan-Approval-Prediction.git) & [Loan Eligibility Prediction Assistant App](https://loan-approval-preds.streamlit.app/)
 
 ## Key Skills
-[![My Skills](https://skillicons.dev/icons?i=vscode,postgres,py,powershell,flask,git&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,postgres,py,powershell,flask,github&theme=light)](https://skillicons.dev)
 
 ## Collaborate on My Learning Journey
 
