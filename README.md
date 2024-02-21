@@ -20,7 +20,7 @@ An Associate Data Scientist with a dedication to exploring cutting-edge technolo
 
 ## Collaborate on My Learning Journey
 
-🤝 Join me on [DataLemur](https://datalemur.com?referralCode=fJ59mQe6) and [LeetCode](https://leetcode.com/) to be a part of this learning journey together. Let's collaborate and learn from each other!
+🤝 Join me on [DataLemur Discussions](https://github.com/nuraulaola/DataLemur-Solutions/discussions) and [LeetCode Discussions](https://github.com/nuraulaola/LeetCode-Solutions/discussions) to be a part of this learning journey together. Let's collaborate and learn from each other!
 
 ## Connect With Me
 
