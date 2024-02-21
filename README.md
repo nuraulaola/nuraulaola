@@ -11,11 +11,9 @@ I'm a certified competent Associate Data Scientist with a dedication to explorin
 5. [Bank Customer Churn Prediction](https://github.com/nuraulaola/Bank-Customer-Churn-Prediction.git)
 6. [Online Retail Customer Segmentation](https://github.com/nuraulaola/Online-Retail-Customer-Segmentation.git)
 
-## Key Technologies
+## Key Skills
 
 - Python 🐍
 - Jupyter Notebook 📓
 - PostgreSQL 🐘
 - Machine Learning 🤖
-
-Let's collaborate and build something remarkable! 🚀
