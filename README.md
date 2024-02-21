@@ -18,6 +18,10 @@ An Associate Data Scientist with a dedication to exploring cutting-edge technolo
 - PostgreSQL 🐘
 - Machine Learning 🤖
 
+## Collaborate on My Learning Journey
+
+🤝 Join me on [DataLemur](https://datalemur.com?referralCode=fJ59mQe6) and [LeetCode](https://leetcode.com/) to be a part of this learning journey together. Let's collaborate and learn from each other!
+
 ## Connect With Me
 
 - **Email:** nuraulaola@gmail.com
