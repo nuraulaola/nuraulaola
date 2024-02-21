@@ -18,7 +18,7 @@ I'm a competent Associate Data Scientist with a dedication to exploring cutting-
 - PostgreSQL 🐘
 - Machine Learning 🤖
 
-## Hit Me Up
+## Connect With Me
 
 - **Email:** nuraulaola@gmail.com
 - **LinkedIn:** [Nur Aula](https://www.linkedin.com/in/nur-aula/)
