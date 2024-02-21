@@ -20,4 +20,4 @@ Join me on [LeetCode Discussions](https://github.com/nuraulaola/LeetCode-Solutio
 - **Email:** nuraulaola@gmail.com
 - **LinkedIn:** [Nur Aula](https://www.linkedin.com/in/nur-aula/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nuraulaola)](https://github.com/nuraulaola/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nuraulaola&layout=donut-vertical)](https://github.com/nuraulaola/github-readme-stats)
