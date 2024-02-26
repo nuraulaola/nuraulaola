@@ -9,7 +9,8 @@
 3. [House Price Prediction](https://github.com/nuraulaola/House-Price-Prediction.git) & [House Price Prediction Assistant App](https://house-price-preds.streamlit.app/)
 4. [Bank Customer Churn Prediction](https://github.com/nuraulaola/Bank-Customer-Churn-Prediction.git)
 5. [Online Retail Customer Segmentation](https://github.com/nuraulaola/Online-Retail-Customer-Segmentation.git)
-6. [Loan Approval Prediction](https://github.com/nuraulaola/Loan-Approval-Prediction.git) & [Loan Eligibility Prediction Assistant App](https://loan-approval-preds.streamlit.app/)
+6. [Anime Recommendation System](https://github.com/nuraulaola/Anime-Recommendation-System.git)
+7. [Loan Approval Prediction](https://github.com/nuraulaola/Loan-Approval-Prediction.git) & [Loan Eligibility Prediction Assistant App](https://loan-approval-preds.streamlit.app/)
 
 ## Key Skills
 [![My Skills](https://skillicons.dev/icons?i=vscode,postgres,py,powershell,flask,github&theme=light)](https://skillicons.dev)
